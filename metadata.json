@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA ADS STUDIO",
+  "description": "AI-powered creative and advertising agency delivering high-converting video ads, UGC creatives, product photography, and performance campaigns for modern brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
